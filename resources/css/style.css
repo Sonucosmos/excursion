@@ -21,6 +21,11 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 21px;
 }
+.header--footer{
+    font-size: 20px;
+    color: gray;
+    text-align: right;
+}
 
 /* links */
 .link--cta {
